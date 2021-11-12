@@ -10,7 +10,7 @@ This document is a suggested process for developing and advancing ENS Governance
 
 ## Venues
 
-[discuss.ens.domains](<README (1).md#process>) is a Discourse forum for governance-related discussion. Community members must register for an account before sharing or liking posts. Registering for the forum allows community members to post in the general forum; for access to the working groups, fill out the [participant request form](https://airtable.com/shrv2xP39SmuCcd5j).
+[https://discuss.ens.domains](<README (1).md#process>) is a Discourse forum for governance-related discussion. Community members must register for an account before sharing or liking posts. Registering for the forum allows community members to post in the general forum; for access to the working groups, fill out the [participant request form](https://airtable.com/shrv2xP39SmuCcd5j).
 
 There are four workstream categories: [Meta-Governance](https://discuss.ens.domains/c/meta-governance/28), [Community](https://discuss.ens.domains/c/community/12), [ENS Ecosystem](https://discuss.ens.domains/c/ens-ecosystem/32), and [Public Goods](https://discuss.ens.domains/c/public-goods/37). Each category has subcategories for each of the steps of the governance process described below.
 
